@@ -1,1 +1,4 @@
-
+- 👋 Hi, I’m @Natalia423-lab
+- 👀 I’m interested in learning how to make an AI bot from scratch and this is my first go at it 
+- 🌱 I’m currently learning Python, Swift and C++
+- ⚡ Fun fact: I am fluent in both English and French 
