@@ -7,9 +7,10 @@
 
 - Python for ai
 - Basics of Neural Networks
-- Things I plan on doing:
 
-# Swift and Xcode to make applications
+# Things I plan on doing:
+
+- Swift and Xcode to make applications
 - C++
 - C++ to design Games
 - Godot
@@ -17,9 +18,10 @@
 - More Neural Networks
 - Program with MicroBits
 - Use CAD software to make 3D objects
-- Things I might do:
 
-# Make a game engine in C++
+# Things I might do:
+
+- Make a game engine in C++
 - Make and train a Neural Network
 - Learn C
 - Learn Java and JavaScript
