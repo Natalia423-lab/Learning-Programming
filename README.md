@@ -25,4 +25,5 @@
 - Make and train a Neural Network
 - Learn C
 - Learn Java and JavaScript
-- All of these will take time and I might not even be able to do them all.
+
+ # All of these will take time and I might not even be able to do them all.
