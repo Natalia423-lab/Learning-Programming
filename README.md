@@ -25,5 +25,6 @@
 - Make and train a Neural Network
 - Learn C
 - Learn Java and JavaScript
+- Code my own Linux distro 
 
  # All of these will take time and I might not even be able to do them all.
