@@ -6,10 +6,11 @@
 # Things I am working on at the moment:
 
 - Python for ai
-- Basics of Neural Networks
+- Basics of Neural Networks 
+- Code my own Linux distro (first using a tutorial and LFS)
 
 # Things I plan on doing:
-
+ 
 - Swift and Xcode to make applications
 - C++
 - C++ to design Games
@@ -25,6 +26,5 @@
 - Make and train a Neural Network
 - Learn C
 - Learn Java and JavaScript
-- Code my own Linux distro 
 
  # All of these will take time and I might not even be able to do them all.
